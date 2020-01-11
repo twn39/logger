@@ -1,0 +1,20 @@
+{
+  "name": "@twn39/logger",
+  "version": "1.0.0",
+  "main": "src/lib.js",
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "debug",
+    "console"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weinan Tang <twn39@163.com>",
+  "description": "A logger for browser."
+}
