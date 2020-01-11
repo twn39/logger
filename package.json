@@ -16,5 +16,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Weinan Tang <twn39@163.com>",
-  "description": "A logger for browser."
+  "description": "A logger for browser.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twn39/logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twn39/logger/issues"
+  },
+  "homepage": "https://github.com/twn39/logger#readme"
 }
